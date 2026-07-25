@@ -1,7 +1,5 @@
 # Chat App: Flask Server + Rich CLI Client
 
-URL TEST: https://tmqbc-125-27-42-5.run.pinggy-free.link
-
 # Chat App: Flask Server + Python Chat Clients (CLI / GUI)
 
 โปรเจกต์นี้มี 2 ส่วน:
@@ -66,11 +64,6 @@ python chat_client_tk.py
 ---
 
 ทั้งสองแบบใช้ Server URL เดียวกันจากขั้นตอนที่ 2 และรันได้หลาย instance พร้อมกัน (คนละเครื่อง/คนละ terminal, จะเป็น CLI หรือ GUI ผสมกันก็ได้) ทุกคนจะเห็นข้อความของกันและกันแบบเกือบ real-time (polling ทุก 1 วินาที)
-
-## หมายเหตุ
-
-- ข้อความเก็บอยู่ใน memory ของ server เท่านั้น (ไม่มีฐานข้อมูล) ถ้า restart server ข้อความเก่าจะหาย
-- ถ้าต้องการ URL ที่ไม่เปลี่ยนทุก 60 นาที ให้ดูแผน paid ของ pinggy.io หรือ deploy server ขึ้น hosting จริง
 
 ## หมายเหตุ
 
