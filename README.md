@@ -1,5 +1,3 @@
-# Chat App: Flask Server + Rich CLI Client
-
 # Chat App: Flask Server + Python Chat Clients (CLI / GUI)
 
 โปรเจกต์นี้มี 2 ส่วน:
