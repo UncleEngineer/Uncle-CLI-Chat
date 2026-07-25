@@ -1,5 +1,7 @@
 # Chat App: Flask Server + Rich CLI Client
 
+URL TEST: https://tmqbc-125-27-42-5.run.pinggy-free.link
+
 โปรเจกต์นี้มี 2 ส่วน:
 
 - `server/` — Flask server สำหรับรับ-ส่งข้อความแชท (REST API แบบ polling)
